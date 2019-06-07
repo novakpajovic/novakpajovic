@@ -1,6 +1,3 @@
-guessinggame
+PROJECT : GUESSING GAME
 
-2019年 5月30日 星期四 21时09分02秒 CST
-
-lines: 
-      31
+7.6.2019. number of lines : 31
